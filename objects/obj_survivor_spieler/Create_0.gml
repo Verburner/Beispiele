@@ -1,4 +1,4 @@
-spr_// Bewegungsgeschw
+// Bewegungsgeschw
 
 geschw = 5
 
