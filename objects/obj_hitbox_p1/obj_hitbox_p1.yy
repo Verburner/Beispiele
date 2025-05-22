@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fighter_p2",
+  "%Name":"obj_hitbox_p1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_fighter_p2",
+  "name":"obj_hitbox_p1",
   "overriddenProperties":[],
   "parent":{
     "name":"fighter",
@@ -32,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fighter",
-    "path":"sprites/spr_fighter/spr_fighter.yy",
+    "name":"spr_fighter_hitbox",
+    "path":"sprites/spr_fighter_hitbox/spr_fighter_hitbox.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

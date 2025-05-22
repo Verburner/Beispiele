@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fighter_p2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_boden",
+  "eventList":[],
   "managed":true,
-  "name":"obj_fighter_p2",
+  "name":"obj_boden",
   "overriddenProperties":[],
   "parent":{
     "name":"fighter",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fighter",
-    "path":"sprites/spr_fighter/spr_fighter.yy",
+    "name":"spr_boden",
+    "path":"sprites/spr_boden/spr_boden.yy",
   },
   "spriteMaskId":null,
   "visible":true,
