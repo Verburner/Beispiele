@@ -29,7 +29,7 @@
   "origin":0,
   "parent":{
     "name":"jump",
-    "path":"folders/Sprites/fighter/jump.yy",
+    "path":"folders/Sprites/jump.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
