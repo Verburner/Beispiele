@@ -1,0 +1,1 @@
+shot_on_cooldown = false;
